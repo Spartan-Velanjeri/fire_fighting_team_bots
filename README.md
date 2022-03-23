@@ -6,6 +6,9 @@ This project uses a Hector Quadcopter and Husky AMR for the search operation. Th
 closely watching for a fire. As soon as a fire starts (represented by an Orange tile), the drone sends the coordinates (2D) of the fire and returns back to the
 ground station. As soon as this happens the AMR is dispatched from the ground station to the location.
 
-Due to certain constraints, I will put the Google Drive link for the project here
+Currently busy with work, I will organise this repo in a few days. 
+
+So for now, I will put the Google Drive link for the project here
+
 
 More info about the project, do send me a mail @ parthanvelanjeri@hotmail.com
