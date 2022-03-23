@@ -8,7 +8,7 @@ ground station. As soon as this happens the AMR is dispatched from the ground st
 
 Currently busy with work, I will organise this repo in a few days. 
 
-So for now, I will put the Google Drive link for the project here
+So for now, I will put the Google Drive link for the project here (Also includes some videos of the working)
 
 
 More info about the project, do send me a mail @ parthanvelanjeri@hotmail.com
